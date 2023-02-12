@@ -13,7 +13,12 @@ export const Button = (props: ButtonProps) => {
     backgroundColor: colors[props.index],
   };
   return (
-    <a href={props.url} className="button" style={backgroundStyle}>
+    <a
+      href={props.url}
+      className="button"
+      target={"_blank"}
+      style={backgroundStyle}
+    >
       {props.name}
     </a>
   );
