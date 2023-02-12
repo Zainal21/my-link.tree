@@ -1,7 +1,7 @@
 import React from "react";
 
 export interface ButtonProps {
-  index: any;
+  index: number;
   url: string;
   name: string;
 }
