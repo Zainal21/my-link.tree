@@ -2,8 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300;1,400&display=swap");
-
 * {
   margin: 0;
   padding: 0;
@@ -11,7 +9,6 @@
 }
 
 body {
-  font-family: "Roboto", sans-serif;
   background-color: #1f2937;
   color: #eaeaea;
 }
@@ -33,7 +30,7 @@ h1 {
 .profile .profile-picture {
   display: flex;
   justify-content: center;
-  margin-bottom: 10px;
+  margin: 12px 0;
 }
 .profile .profile-picture img {
   border-radius: 50%;
@@ -65,4 +62,11 @@ h1 {
   border: solid 2px black;
   background-color: #e07a5f;
   box-shadow: black 7px 7px 0;
+}
+
+.profile .social_media .button:hover {
+  transform: translateY(-5px);
+  transition: 1s ease;
+  box-shadow: #bdbcbc 7px 7px 0;
+  border: solid 2px #bdbcbc;
 }

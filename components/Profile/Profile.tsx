@@ -2,7 +2,7 @@ import { Button } from "../Button";
 
 const profile = {
   fullname: "Muhamad Zainal Arifin",
-  bio: "Hey! I'm Zain, a Software Enginner and Tech Enthusiat based in Jakarta. 👋",
+  bio: "Hey! I'm Zain👋, a Software Enginner and Tech Enthusiat based in Jakarta.",
   picture: "https://avatars.githubusercontent.com/u/48118434?v=4",
   socialMedia: [
     { name: "Visit my portfolio 🍳", url: "https://muhammadzain.site/" },
