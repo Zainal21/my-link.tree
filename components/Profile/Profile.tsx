@@ -2,10 +2,10 @@ import { Button } from "../Button";
 
 const profile = {
   fullname: "Muhamad Zainal Arifin",
-  bio: "Hey! I'm Zain👋, a Software Enginner and Tech Enthusiat based in Jakarta.",
+  bio: "Hey! I'm Zain👋, a Software Enginner and Tech Enthusiat based in Surakarta & Remote Worker.",
   picture: "https://avatars.githubusercontent.com/u/48118434?v=4",
   socialMedia: [
-    { name: "Visit my portfolio 🍳", url: "https://muhammadzain.site/" },
+    { name: "Visit my portfolio 🍳", url: "https://muhamadzain.me/" },
     { name: "Contact Me On Email", url: "mailto:muhamadzaindev@gmail.com" },
     {
       name: "Contact Me On WhatsApp",
