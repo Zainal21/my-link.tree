@@ -6,7 +6,14 @@ export interface ButtonProps {
   name: string;
 }
 
-const colors = ["#01408c", "#E07A5F", "#005c2c", "#ab3303", "#0d0c42"];
+const colors = [
+  "#01408c",
+  "#E07A5F",
+  "#005c2c",
+  "#ab3303",
+  "#0d0c42",
+  "#40A2E3",
+];
 
 export const Button = (props: ButtonProps) => {
   const backgroundStyle = {
