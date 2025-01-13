@@ -3,7 +3,7 @@ import { Button } from "../Button";
 
 const profile = {
   fullname: "Muhamad Zainal Arifin",
-  bio: "Hey! I'm Zain👋, a Software Enginner and Tech Enthusiat based in Surakarta & Remote Worker.",
+  bio: "Hi, I'm Muhammad Zain 👋, a Software Engineer and DevOps Specialist based in Surakarta, working remotely.",
   picture: "https://avatars.githubusercontent.com/u/48118434?v=4",
   socialMedia: [
     { name: "Visit my portfolio 🍳", url: "https://muhamadzain.me" },
@@ -18,7 +18,7 @@ const profile = {
     },
     {
       name: "Contact Me On Instagram",
-      url: "https://instagram.com/Muhamadzain.tsx",
+      url: "https://instagram.com/muhammadzain.ariefin",
     },
     { name: "Visit my github 🤓", url: "https://github.com/Zainal21" },
   ],
