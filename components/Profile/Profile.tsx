@@ -10,7 +10,7 @@ const profile = {
     { name: "Contact Me On Email", url: "mailto:muhamadzaindev@gmail.com" },
     {
       name: "Contact Me On WhatsApp",
-      url: "https://api.whatsapp.com/send?phone=+6288216756214",
+      url: "https://wa.me/6288216756214",
     },
     {
       name: "Contact Me On Telegram",
